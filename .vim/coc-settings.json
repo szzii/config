@@ -1,0 +1,11 @@
+{
+	"explorer.git.enable": true,
+	"explorer.icon.enableNerdfont": true,
+	"explorer.quitOnOpen": true,
+	"explorer.filename.colored.enable": true,
+	"java.configuration.maven.userSettings":"/opt/maven/conf/settings.xml",
+	"coc.preferences.formatOnTypeFiletypes": ["java","json"],
+	"diagnostic.displayByAle":true
+}
+
+
